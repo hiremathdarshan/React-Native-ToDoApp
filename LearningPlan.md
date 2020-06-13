@@ -1,4 +1,4 @@
-## React NAtive LEarning Plan
+## React Native Learning Plan
 
 ### Fundamentals
 1. Create React App
